@@ -25,27 +25,27 @@ GitHub is widely known as a platform for developers to host and share projects, 
 ## 🔥 Top GitHub.io Games You Should Try
 
 ### 1️⃣ 2048 – Classic Number Puzzle
-**[🔗 Play Now](#)**
+**[🔗 Play Now](https://viralgames.github.io)**
 A simple yet addictive number puzzle game where you slide tiles to merge them into higher numbers, aiming to reach 2048.
 
 ### 2️⃣ Hextris – Fast-Paced Puzzle Challenge
-**[🔗 Play Now](#)**
+**[🔗 Play Now](https://viralgames.github.io)**
 A fun Tetris-inspired game where you rotate a hexagon to match falling colored blocks.
 
 ### 3️⃣ Flappy Bird Clone
-**[🔗 Play Now](#)**
+**[🔗 Play Now](https://viralgames.github.io)**
 A browser-based remake of the legendary Flappy Bird, where you guide a bird through pipes with precise taps.
 
 ### 4️⃣ Pixel War – Multiplayer Battle
-**[🔗 Play Now](#)**
+**[🔗 Play Now](https://viralgames.github.io)**
 A strategy-based game where players compete to expand their territory on a shared board.
 
 ### 5️⃣ Breakout Game – Retro Arcade Fun
-**[🔗 Play Now](#)**
+**[🔗 Play Now](https://viralgames.github.io)**
 A classic brick-breaker game where you control a paddle to bounce a ball and break blocks.
 
 ### 6️⃣ Snake Game – The Nostalgic Classic
-**[🔗 Play Now](#)**
+**[🔗 Play Now](https://viralgames.github.io)**
 A simple yet addictive version of the classic Snake game, perfect for quick play sessions.
 
 ## 🔍 How to Find More GitHub.io Games
@@ -73,6 +73,6 @@ If you love free, lightweight, and fun browser games, then **GitHub.io games** a
 
 🔥 Have a favorite **GitHub.io game**? Drop a comment and share your recommendations! Let’s build a great list together.
 
-👉 **Start playing now:** [Your Website URL](https://yourgithubusername.github.io/)
+👉 **Start playing now:** [Your Website URL](https://viralgames.github.io/)
 
 **Happy gaming!** 🎮🚀

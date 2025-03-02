@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  Discover the best GitHub.io games – free, lightweight, and fun HTML5 browser games. Play arcade, puzzle, and strategy games online with no downloads!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://viralgames.github.io/Github.io-Games-Blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
